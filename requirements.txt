@@ -24,8 +24,9 @@ python-dotenv==1.0.0
 
 # Pydantic and data validation
 # Using a version compatible with Python 3.13
-pydantic==2.8.2
-pydantic-settings
+pydantic==2.7.4
+pydantic-core==2.18.4
+pydantic-settings==2.3.4
 
 # Logging and monitoring
 structlog==23.2.0
